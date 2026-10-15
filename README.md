@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Utkarsh Sinha
 - 👀 I’m interested in backend Developement
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on SpringBoot/Multithrading problems
+- 💞️ I’m looking to collaborate on System Design/ Leetcode problems
 - 📫 How to reach me talk2utkarshsinha@gmail.com
 
 <!---
